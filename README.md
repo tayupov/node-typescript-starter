@@ -19,7 +19,7 @@ $ npm install
 ```
 $ npm run dev
 ```
-Changes made in the `/src` directory will be hot reloaded. See `nodemon.json`:
+Changes made in the `/src` directory will be hot reloaded. See the `nodemon.json` file.
 
 ## Linting
 | Feature       |     Option    |
