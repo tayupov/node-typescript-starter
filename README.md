@@ -24,8 +24,7 @@ Changes made in the `/src` directory will be hot reloaded. See `nodemon.json`:
 > What line endings do you use? Unix
 > Do you require semicolons? No
 
-For adjustments edit `.eslintrc.json`.
-Makes use of `typescript-eslint-parser`, see:
+For adjustments edit `.eslintrc.json`. Makes use of `typescript-eslint-parser`, see:  
 https://github.com/eslint/typescript-eslint-parser
 
 ## Testing
