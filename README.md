@@ -1,5 +1,16 @@
 # Node Typescript Starter
 
+## Development
+Changes made in the `/src` directory will be hot reloaded. See `nodemon.json`:
+```
+{
+  "ignore": ["test/*.ts", ".git", "node_modules", "dist"],
+  "watch": ["src"],
+  "exec": "npm start",
+  "ext": "ts"
+}
+```
+
 ## Precommit
 `git add` and `git commit` will run precommit hooks defined in the `package.json`:
 
