@@ -13,17 +13,13 @@ $ cd node-typescript-starter
 $ npm install
 ```
 
-
 ## Development
+
+#### Start the project by running:
+```
+$ npm run dev
+```
 Changes made in the `/src` directory will be hot reloaded. See `nodemon.json`:
-```
-{
-  "ignore": ["test/*.ts", ".git", "node_modules", "dist"],
-  "watch": ["src"],
-  "exec": "npm start",
-  "ext": "ts"
-}
-```
 
 ## Linting
 | Feature       |     Option    |
