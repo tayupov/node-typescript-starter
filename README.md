@@ -39,7 +39,8 @@ For adjustments edit `.eslintrc.json`. Makes use of `typescript-eslint-parser`, 
 https://github.com/eslint/typescript-eslint-parser
 
 ## Testing
-This starter makes use of the mocha test framework and chai assertion library.  Tests are defined in `/test` and can be run with:
+This starter makes use of the mocha test framework and chai assertion library.  
+Tests are defined in `/test` and can be run with:
 ```
 $ npm test
 ```
