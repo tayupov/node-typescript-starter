@@ -1,6 +1,19 @@
 # Node Typescript Starter
 Super lightweight, unbiased boilerplate for node typescript projects.
 
+## Get started
+
+#### Clone the repository:
+```
+$ git clone git@github.com:tayupov/node-typescript-starter.git
+```
+#### Install dependencies:
+```
+$ cd node-typescript-starter
+$ npm install
+```
+
+
 ## Development
 Changes made in the `/src` directory will be hot reloaded. See `nodemon.json`:
 ```
